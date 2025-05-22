@@ -281,11 +281,6 @@
       }
       let h = [
         {
-          src: s.default,
-          alt: "CoinGecko logo",
-          href: "https://www.coingecko.com/en/coins/good-martian",
-        },
-        {
           src: o.default,
           alt: "Dex Screener logo",
           href: "https://dexscreener.com/solana/cyw9mcs6tjmtde9hgxypuxmarn3nehiwaapu4xqk4wau",
@@ -298,19 +293,11 @@
         {
           src: l.default,
           alt: "Telegram logo",
-          href: "https://t.me/goodmartiansol",
+          href: "https://t.me/XXXXXX",
         },
-        {
-          src: d.default,
-          alt: "Discord logo",
-          href: "https://discord.gg/goodmartian",
-        },
-        { src: n.default, alt: "X logo", href: "https://x.com/goodmartiansol" },
-        {
-          src: c.default,
-          alt: "Instagram logo",
-          href: "https://www.instagram.com/goodmartiansol",
-        },
+ 
+        { src: n.default, alt: "X logo", href: "https://x.com/XXXXXX" },
+
 
       ];
     },
@@ -328,19 +315,7 @@
         blurHeight: 8,
       };
     },
-    1514: (e, t, A) => {
-      "use strict";
-      A.r(t), A.d(t, { default: () => a });
-      let a = {
-        src: "/_next/static/media/coingecko.e8ba57e8.png",
-        height: 156,
-        width: 151,
-        blurDataURL:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAbFBMVEX///8wIT1lVHEvGz/z8PWjkrD+/P5MaXFrT4EjAEIAAAf6+vz/9vb////d1uL////////u7e////+/usV6Z4deVV5TQ2GbkaOworvHvM+km6p7bYVPP14uCkw8F1hZOXDk3ul7YY+RfaHo5euEcEkdAAAAHXRSTlP9PPnE/vxaAP79Rasd8/7aztbrsvQbzJr+/uPw+nWG+MgAAAAJcEhZcwAACxMAAAsTAQCanBgAAABESURBVHicBcEFAoAgAACxI5SwOwHR///RDVN2NFVtKNGtZljoH2tTwQZFSCE8J+PrYty5mLJzmU8hZhsPfXuMWKVU3vx/BQOnN2/bOwAAAABJRU5ErkJggg==",
-        blurWidth: 8,
-        blurHeight: 8,
-      };
-    },
+
     5224: (e, t, A) => {
       "use strict";
       A.r(t), A.d(t, { default: () => a });
