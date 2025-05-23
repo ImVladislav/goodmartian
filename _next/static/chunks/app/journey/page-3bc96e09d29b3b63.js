@@ -185,7 +185,7 @@
       "use strict";
       t.r(e), t.d(e, { default: () => a });
       let a = {
-        src: "/_next/static/media/good_martian_logo_1.98181c63.png",
+        src: "/_next/static/media/good_martian_logo_1_98181c63.gif",
         height: 589,
         width: 1328,
         blurDataURL:

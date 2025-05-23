@@ -122,7 +122,6 @@
         return (0, l.QP)((0, e.$)(t));
       }
       let m = [
- 
         {
           src: s.default,
           alt: "Dex Screener logo",
@@ -140,15 +139,13 @@
         },
 
         { src: o.default, alt: "X logo", href: "https://x.com/XXXXXX" },
- 
-        
       ];
     },
     5211: (A, t, a) => {
       "use strict";
       a.r(t), a.d(t, { default: () => e });
       let e = {
-        src: "/_next/static/media/good_martian_logo_1.98181c63.png",
+        src: "1.gif",
         height: 589,
         width: 1328,
         blurDataURL:
