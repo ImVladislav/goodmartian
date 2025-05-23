@@ -467,7 +467,8 @@ video {
 }
 
 .row-span-1 {
-    grid-row: span 1/span 1
+    grid-row: span 1/span 1;
+    display: none;
 }
 
 .row-span-4 {
