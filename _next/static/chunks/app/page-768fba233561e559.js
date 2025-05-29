@@ -125,20 +125,20 @@
         {
           src: s.default,
           alt: "Dex Screener logo",
-          href: "https://dexscreener.com/solana/cyw9mcs6tjmtde9hgxypuxmarn3nehiwaapu4xqk4wau",
+          href: "https://dexscreener.com/solana/Gw824v5kpLdmQV6BTdepF8ZqDQEaUNAxLrVne1Wipump",
         },
         {
           src: g.default,
           alt: "Dex Tools logo",
-          href: "https://www.dextools.io/app/en/token/goodmartian",
+          href: "https://www.dextools.io/app/en/solana/pair-explorer/GcUDnteo8SmxRFeB24Jfb19C31qxF157qSZn3Hd1utt3?t=1748491062236",
         },
         {
           src: i.default,
           alt: "Telegram logo",
-          href: "https://t.me/XXXXXX",
+          href: "https://t.me/kifsol",
         },
 
-        { src: o.default, alt: "X logo", href: "https://x.com/XXXXXX" },
+        { src: o.default, alt: "X logo", href: "https://x.com/KifOnSol" },
       ];
     },
     5211: (A, t, a) => {
