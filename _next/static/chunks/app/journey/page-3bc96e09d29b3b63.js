@@ -165,7 +165,7 @@
           href: "https://t.me/kifsol",
         },
 
-        { src: o.default, alt: "X logo", href: "https://x.com/goodmartiansol" },
+        { src: o.default, alt: "X logo", href: "https://x.com/KifOnSol" },
       ];
     },
     6892: (A, e, t) => {
